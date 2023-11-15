@@ -1,5 +1,4 @@
 ### Hi there 👋
-![ ](https://github.com/linjimzen/linjimzen/assets/141749064/10369d5a-3033-4a81-a993-cb05b62b5ed7)
 ![ ](https://github.com/linjimzen/linjimzen/assets/141749064/fce95bed-9159-459a-8565-67c3742909c6)
 
 <!--
