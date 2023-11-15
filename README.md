@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/linjimzen/linjimzen/assets/141749064/e78680cc-d5db-4faf-8ede-664423cc8bdd" width="20%" height="20%">
+<img src="https://github.com/linjimzen/linjimzen/assets/141749064/e78680cc-d5db-4faf-8ede-664423cc8bdd" width="50%" height="50%">
 
 <!--
 **linjimzen/linjimzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
