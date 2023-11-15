@@ -1,11 +1,11 @@
 ### Hi there 👋
-<img src="https://github.com/linjimzen/linjimzen/assets/141749064/e78680cc-d5db-4faf-8ede-664423cc8bdd" width="50%" height="50%">
+![ ](https://github.com/linjimzen/linjimzen/assets/141749064/10369d5a-3033-4a81-a993-cb05b62b5ed7)
 
 <!--
 **linjimzen/linjimzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img src="https://github.com/linjimzen/linjimzen/assets/141749064/e78680cc-d5db-4faf-8ede-664423cc8bdd" width="50%" height="50%">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
